@@ -1,0 +1,5 @@
+C:\Users\Franklin Ezeji\documents\visual studio 2012\Projects\MySQL_Database_Library\MySQL_Database_Library\obj\Debug\MySQL_Database_Library.csprojResolveAssemblyReference.cache
+C:\Users\Franklin Ezeji\documents\visual studio 2012\Projects\MySQL_Database_Library\MySQL_Database_Library\bin\Debug\MySQL_Database_Library.dll
+C:\Users\Franklin Ezeji\documents\visual studio 2012\Projects\MySQL_Database_Library\MySQL_Database_Library\bin\Debug\MySQL_Database_Library.pdb
+C:\Users\Franklin Ezeji\documents\visual studio 2012\Projects\MySQL_Database_Library\MySQL_Database_Library\obj\Debug\MySQL_Database_Library.dll
+C:\Users\Franklin Ezeji\documents\visual studio 2012\Projects\MySQL_Database_Library\MySQL_Database_Library\obj\Debug\MySQL_Database_Library.pdb
